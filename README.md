@@ -12,8 +12,10 @@ overview of circuitry
 connected to target ESP-S  
 ![esp8266_programmer_action.JPG](esp8266_programmer_action.JPG)  
 
-
+adaptor and wiring
 ![esp8266_programmer_ESP32-CAM-MB_interface.JPG](esp8266_programmer_ESP32-CAM-MB_interface.JPG)  
+
+
 ![esp8266_programmer_pinout.JPG](esp8266_programmer_pinout.JPG)
 ![esp8266_programmer_circuit.JPG](esp8266_programmer_circuit.JPG)  
 
