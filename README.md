@@ -80,3 +80,9 @@ special note:
   PL2303 is not working for 26MHZ & boot time 74880 baud.
   CH340G / CP2102 is fine.
 ```
+
+
+
+ref:  
+https://github.com/xiaolaba/ESP32-CAM_V1.6_V1.9_MB  
+https://github.com/xiaolaba/ESP8266_blink_SOS_xiaolaba  
