@@ -4,7 +4,7 @@ use ESP32-CAM-MB as the programmer for ESP8266 (ESP-S module is actually ESP8285
 ### hardware for tseting   
 1. ESP-S (ESP8285 chip)    
 2. ESP32-CAM-MB and  
-3. adaptor own build  
+3. adapter own build  
 
 overview of circuitry  
 ![esp8266_programmer_ESP32-CAM-MB_design.JPG](esp8266_programmer_ESP32-CAM-MB_design.JPG)  
@@ -12,10 +12,10 @@ overview of circuitry
 connected to target ESP-S  
 ![esp8266_programmer_action.JPG](esp8266_programmer_action.JPG)  
 
-adaptor and wiring  
+adapter and wiring  
 ![esp8266_programmer_ESP32-CAM-MB_interface.JPG](esp8266_programmer_ESP32-CAM-MB_interface.JPG)  
 
-programmer port pin assignment  
+adapter, programmer port pin assignment  
 ![esp8266_programmer_pinout.JPG](esp8266_programmer_pinout.JPG)
 
 esp8266 programmer and bootload mode  
@@ -27,25 +27,8 @@ esp8266 programmer and bootload mode
 uses arduino IDE and esptool.py to burn code, no need manual reset to bootload mode
 
 ### software, b.bat, c.bat d.bat
-uses esptool.exe to burn code, eed manual reset to bootload mode
+uses esptool.exe to burn code, need manual reset to bootload mode
 hold IO-0/boot button, press RST button
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ```
