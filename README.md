@@ -5,6 +5,7 @@ use ESP32-CAM-MB as the programmer for ESP8266 (ESP-S module is actually ESP8285
 1. ESP-S (ESP8285 chip)    
 2. ESP32-CAM-MB and  
 3. adaptor own build  
+
 overview of circuitry  
 ![esp8266_programmer_ESP32-CAM-MB_design.JPG](esp8266_programmer_ESP32-CAM-MB_design.JPG)  
 
