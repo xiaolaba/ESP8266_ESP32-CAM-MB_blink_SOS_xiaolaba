@@ -4,10 +4,13 @@ use ESP32-CAM-MB as the programmer for ESP8266 (ESP-S module is actually ESP8285
 ### hardware for tseting   
 ESP-S (ESP8285 chip)  
 ESP32-CAM-MB and adaptor own build  
-### p.bat
+![esp8266_programmer_action.JPG](esp8266_programmer_action.JPG)  
+
+
+### software, p.bat
 uses arduino IDE and esptool.py to burn code, no need manual reset to bootload mode
 
-### b.bat, c.bat d.bat
+### software, b.bat, c.bat d.bat
 uses esptoo.exe to burn code, eed manual reset to bootload mode
 hold IO-0/boot button, press RST button
 
@@ -15,7 +18,7 @@ ref: https://github.com/xiaolaba/ESP8266_blink_SOS_xiaolaba
 
 
 
-![esp8266_programmer_action.JPG](esp8266_programmer_action.JPG)  
+ 
 
 ![esp8266_programmer_circuit.JPG](esp8266_programmer_circuit.JPG)  
 
