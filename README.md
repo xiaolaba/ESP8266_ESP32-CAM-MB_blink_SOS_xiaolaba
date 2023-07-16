@@ -15,7 +15,6 @@ uses arduino IDE and esptool.py to burn code, no need manual reset to bootload m
 uses esptoo.exe to burn code, eed manual reset to bootload mode
 hold IO-0/boot button, press RST button
 
-ref: https://github.com/xiaolaba/ESP8266_blink_SOS_xiaolaba  
 
 
 
@@ -26,12 +25,16 @@ ref: https://github.com/xiaolaba/ESP8266_blink_SOS_xiaolaba
 ![esp8266_programmer_ESP32-CAM-MB_design.JPG](esp8266_programmer_ESP32-CAM-MB_design.JPG)  
 
 
-
+esp8266 programmer and bootload circuitry  
 ![esp8266_programmer_interface.JPG](esp8266_programmer_interface.JPG)
+
 
 ![esp8266_programmer_pinout.JPG](esp8266_programmer_pinout.JPG)
 
 
+
+
+ref: https://github.com/xiaolaba/ESP8266_blink_SOS_xiaolaba  
 
 ```
 Update by xiaolaba, 2019-MAR-02
