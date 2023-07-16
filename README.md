@@ -29,9 +29,15 @@ esp8266 programmer and bootload mode
 uses arduino IDE and esptool.py to burn code, no need manual reset to bootload mode
 
 ### software, b.bat, c.bat d.bat
-uses esptool.exe to burn code, need manual reset to bootload mode
-hold IO-0/boot button, press RST button
+uses esptool.exe to burn code, need manual reset to bootload mode  
+```
+1. hold IO-0/boot button,  
+2. press RST button,  
+3. release RST button,  
+4. release IO-0/boot button
 
+esp8266 should be in bootload mode and ready to burn code.  
+```
 
 ```
 Update by xiaolaba, 2019-MAR-02
