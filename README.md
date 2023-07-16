@@ -7,14 +7,15 @@ ESP32-CAM-MB and adaptor own build
 ![esp8266_programmer_action.JPG](esp8266_programmer_action.JPG)  
 ![esp8266_programmer_ESP32-CAM-MB_interface.JPG](esp8266_programmer_ESP32-CAM-MB_interface.JPG)  
 ![esp8266_programmer_pinout.JPG](esp8266_programmer_pinout.JPG)
-
+![esp8266_programmer_circuit.JPG](esp8266_programmer_circuit.JPG)  
+[esp8266_programmer_ESP32-CAM-MB_design.JPG](esp8266_programmer_ESP32-CAM-MB_design.JPG)  
 
 
 ### software, p.bat
 uses arduino IDE and esptool.py to burn code, no need manual reset to bootload mode
 
 ### software, b.bat, c.bat d.bat
-uses esptoo.exe to burn code, eed manual reset to bootload mode
+uses esptool.exe to burn code, eed manual reset to bootload mode
 hold IO-0/boot button, press RST button
 
 
@@ -22,9 +23,7 @@ hold IO-0/boot button, press RST button
 
  
 
-![esp8266_programmer_circuit.JPG](esp8266_programmer_circuit.JPG)  
 
-![esp8266_programmer_ESP32-CAM-MB_design.JPG](esp8266_programmer_ESP32-CAM-MB_design.JPG)  
 
 
 esp8266 programmer and bootload circuitry  
