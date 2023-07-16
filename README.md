@@ -16,7 +16,8 @@ connected to target ESP-S
 adapter and wiring  
 ![esp8266_programmer_ESP32-CAM-MB_interface.JPG](esp8266_programmer_ESP32-CAM-MB_interface.JPG)  
 
-adapter, programmer port pin assignment  
+adapter, programmer port pin assignment,  
+red LED of adapter is connected to GPIO-2 or IO-2 for short,  
 ![esp8266_programmer_pinout.JPG](esp8266_programmer_pinout.JPG)
 
 esp8266 programmer and bootload mode  
