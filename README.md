@@ -41,6 +41,12 @@ uses esptool.exe to burn code, need manual reset to bootload mode
 esp8266 should be in bootload mode and ready to burn code.  
 ```
 
+### software, dump_flash_contents.bat
+read the SPI flash chip, 4Mb szie   
+write back the bin to esp8266, it is works.  
+compiled python script as esptool.exe, !!! not the one enclosed in the repo. !!! 
+
+
 ```
 Update by xiaolaba, 2019-MAR-02
 
