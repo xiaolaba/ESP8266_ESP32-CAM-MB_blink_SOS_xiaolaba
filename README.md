@@ -5,7 +5,9 @@ use ESP32-CAM-MB as the programmer for ESP8266 (ESP-S module is actually ESP8285
 ESP-S (ESP8285 chip)  
 ESP32-CAM-MB and adaptor own build  
 ![esp8266_programmer_action.JPG](esp8266_programmer_action.JPG)  
-![esp8266_programmer_ESP32-CAM-MB_interface.JPG](esp8266_programmer_ESP32-CAM-MB_interface.JPG)   
+![esp8266_programmer_ESP32-CAM-MB_interface.JPG](esp8266_programmer_ESP32-CAM-MB_interface.JPG)  
+![esp8266_programmer_pinout.JPG](esp8266_programmer_pinout.JPG)
+
 
 
 ### software, p.bat
@@ -29,12 +31,12 @@ esp8266 programmer and bootload circuitry
 ![esp8266_programmer_interface.JPG](esp8266_programmer_interface.JPG)
 
 
-![esp8266_programmer_pinout.JPG](esp8266_programmer_pinout.JPG)
 
 
 
 
-ref: https://github.com/xiaolaba/ESP8266_blink_SOS_xiaolaba  
+
+
 
 ```
 Update by xiaolaba, 2019-MAR-02
