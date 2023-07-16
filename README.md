@@ -5,7 +5,9 @@ use ESP32-CAM-MB as the programmer for ESP8266 (ESP-S module is actually ESP8285
 1. ESP-S (ESP8285 chip)    
 2. ESP32-CAM-MB and  
 3. adapter own build
-4. uses p.bat to burn code, red LED of adapter (GPIO-2) will be blinking morse code of SOS  
+4. uses p.bat to burn code, red LED of adapter (GPIO-2) will be blinking morse code of SOS
+
+PS. SOS, 3 shorter blinkings, 3 longer blinkings then 3 3 shorter blinkings.  
 
 overview of circuitry  
 ![esp8266_programmer_ESP32-CAM-MB_design.JPG](esp8266_programmer_ESP32-CAM-MB_design.JPG)  
