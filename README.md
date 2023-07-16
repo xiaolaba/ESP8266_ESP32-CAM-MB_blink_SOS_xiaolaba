@@ -18,7 +18,8 @@ adaptor and wiring
 programmer port pin assignment  
 ![esp8266_programmer_pinout.JPG](esp8266_programmer_pinout.JPG)
 
-
+esp8266 programmer and bootload mode  
+![esp8266_programmer_interface.JPG](esp8266_programmer_interface.JPG)  
 ![esp8266_programmer_circuit.JPG](esp8266_programmer_circuit.JPG)  
 
 
@@ -37,8 +38,7 @@ hold IO-0/boot button, press RST button
 
 
 
-esp8266 programmer and bootload circuitry  
-![esp8266_programmer_interface.JPG](esp8266_programmer_interface.JPG)
+
 
 
 
